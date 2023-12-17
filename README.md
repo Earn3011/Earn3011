@@ -1,16 +1,33 @@
-### Hi there 👋
+# สวัสดีครับ/ค่ะ! 👋
 
-<!--
-**Earn3011/Earn3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ฉันคือ Araya 🌈
 
-Here are some ideas to get you started:
+🌟 นักพัฒนาซอฟต์แวร์และนักเรียนน่ารัก
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 ทำงานกับ JavaScript, Python, และ HTML/CSS
+
+🌈 ท้องถิ่น: Bangkok, Thailand
+
+### ความสามารถและความสนใจ
+
+- 💻 นักพัฒนา Frontend และ Backend
+- 🌐 สนใจเรื่อง Web Development และ Open Source
+- 📱 พัฒนาแอปพลิเคชันโมบายด์
+- 📚 ติวเตอร์และผู้เขียนบทความทางเทคนิค
+
+### โปรเจ็กต์ล่าสุด
+
+👉 [โปรเจ็กต์ A](https://github.com/araya-projects/project-a)
+👉 [โปรเจ็กต์ B](https://github.com/araya-projects/project-b)
+
+### ติดต่อ
+
+📧 อีเมล: araya.dev@example.com
+🐦 Twitter: [@ArayaDev](https://twitter.com/ArayaDev)
+📷 Instagram: [@araya.dev](https://www.instagram.com/araya.dev/)
+
+### คำคมที่โปรด
+
+> "ความสำเร็จมีมากมายเมื่อคุณก้าวออกจาก Comfort Zone." - Unknown
+
+ขอบคุณที่มาเยี่ยมชมโปรไฟล์ของฉัน! 😊✨
