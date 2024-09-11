@@ -17,8 +17,7 @@
 
 ### โปรเจ็กต์ล่าสุด
 
-👉 [โปรเจ็กต์ A](https://github.com/araya-projects/project-a)
-👉 [โปรเจ็กต์ B](https://github.com/araya-projects/project-b)
+👉 [โปรเจ็กต์ A](https://github.com/Earn3011/new)
 
 ### ติดต่อ
 
