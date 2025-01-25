@@ -20,7 +20,7 @@
 
 ### ติดต่อ
 
-📧 อีเมล: Earnny30111@gmail.com
+📧 อีเมล: Earnny3011@gmail.com
 📘 Facebook: [Earn Araya](https://www.facebook.com/earnearn11)
 📷 Instagram: [@Earn_3011](https://www.instagram.com/earn_3011/)
 
